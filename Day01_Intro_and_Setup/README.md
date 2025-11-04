@@ -76,6 +76,10 @@ Here is the **day-by-day breakdown** of the challenge:
 
 ## How to Use This Repository
 
-1. Clone the repository:
+Follow these simple steps to get started with the JavaScript 60-Day Challenge 👇
+
+### 1️⃣ Clone the repository
+First, open your terminal or PowerShell and clone the repo using the following command:
+
 ```bash
-git clone https://github.com/username/JavaScript-60Day-Challenges.git
+git clone https://github.com/mrpulse-developer/JavaScript-60Day-Challenges-.git
